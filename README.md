@@ -29,4 +29,4 @@ To run the code, please follow these steps:
 
 ## Architecture
 
-![Alt Text](good_hands.gif)
+![Alt Text](CapsNet.png)
