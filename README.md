@@ -6,9 +6,9 @@ The proposed method has been evaluated on a lipreading dataset and the results h
 
 This repository contains the code used to implement and evaluate the proposed method. The code is organized as follows:
 
-
 - `data/`: This folder contains the dataset used in the experiments.
 - `preprocessing/`: This folder contains the code used for data preprocessing.
+- `train/`: This folder contains the code to implement the training loop for the capsule network model for lipreading.
 - `models/`: This folder contains the implementation of the proposed method using capsule networks.
 - `evaluation/`: This folder contains the code used for evaluating the proposed method.
 - `compare/`: This folder ontains the code for comparing the effectiveness of the capsule network model against a baseline model
