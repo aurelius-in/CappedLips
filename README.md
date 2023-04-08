@@ -27,3 +27,6 @@ To run the code, please follow these steps:
 6. View the results: `python results/main.py`
 
 
+## Architecture
+
+![Alt Text](good_hands.gif)
