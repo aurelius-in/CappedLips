@@ -30,3 +30,6 @@ To run the code, please follow these steps:
 ## Architecture
 
 ![Alt Text](capsNet.png)
+
+## LipNet Dataset Example
+![Alt Text](lipreading.gif)
