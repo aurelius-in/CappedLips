@@ -5,7 +5,7 @@ from model import LipreadingCapsuleNetwork
 
 # This Python file contains the implementation for evaluating the trained capsule network model on a given test set.
 
-# This implementation defines the evaluation of the trained capsule network model on a given test set. 
+# This implementation defines the evaluation of the trained capsule network model on a given test set.  
 # The code loads the test set using the LipreadingDataLoader class from data_loader.py and loads the trained 
 # model from the model_weights.h5 file. The code then evaluates the model on the test set and prints the final 
 # test loss and accuracy.
